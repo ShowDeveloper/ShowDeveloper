@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShowDeveloper
-- 👀 I’m interested in wed App development.Wants to specialise in Education Learning Technology.
+- 👀 I’m interested in wed App development.Wants to specialise in EdTech.
 - 🌱 I’m currently learning how to become a Frontend developer.
-- 💞️ I’m looking to collaborate on Application i named StudentMonitor.
+- 💞️ I’m looking to collaborate on StudentMonitor Application.
 - 📫 How to reach me showole1@gmail.com or GitHub@ShowDeveloper
 - 
 
